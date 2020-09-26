@@ -16,6 +16,8 @@
 * Neural Networks
 * Ensembles (coming AY 2021-2022)
 * Reinforcement Learning (coming AY 2021-2022)
+* Evolutionary Algorithms (coming AY 2022-2023)
+* Bayesian Updating (coming AY 2022-2023)
 
 ### Current Issues in the field of Data Science
 
