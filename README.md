@@ -1,1 +1,1 @@
-# Data Science 2 (Thomas More Course)
+# Data Science 2
