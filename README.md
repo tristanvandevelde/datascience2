@@ -4,7 +4,6 @@
 
 ### Data Science Process
 
-Steps:
 1. Preparing workspace
 2. Data Processing
 3. Explorative Data Analysis
@@ -19,4 +18,22 @@ Steps:
 
 ### Current Issues in the field of Data Science
 
+* High Dimensionality
+* Adverserial Reprogramming
+
 ## Schedule
+
+|   |   |   |   |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
