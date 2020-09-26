@@ -15,6 +15,7 @@
 * Support Vector Machines
 * Neural Networks
 * Ensembles (coming AY 2021-2022)
+* Reinforcement Learning (coming AY 2021-2022)
 
 ### Current Issues in the field of Data Science
 
