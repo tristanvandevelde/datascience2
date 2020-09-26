@@ -1,1 +1,1 @@
-# Step 1: Setting up the workspace
+# Step 1: Workspace Setup
