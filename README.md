@@ -22,17 +22,17 @@
 * Adverserial Reprogramming
 
 ## Schedule
-| Date  |   |   |   |
+| Date  |  Project |   |   |
 |---|---|---|---|
-| Week 1  |   |   |   |
-| Week 2  |   |   |   |
-| Week 3  |   |   |   |
-| Week 4  |   |   |   |
+| Week 1  | Data Collection & Feature Engineering  |   |   |
+| Week 2  | Data Cleaning & Preparation  |   |   |
+| Week 3  | EDA: Initial view  |   |   |
+| Week 4  | EDA: Complete Exploration  |   |   |
 | Week 5  |   |   |   |
 | Week 6  |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Week 7  |   |   |   |
+| Week 8  |   |   |   |
+| Week 9  |   |   |   |
+| Week 10  |   |   |   |
+| Week 11  |   |   |   |
+| Week 12  |   |   |   |
