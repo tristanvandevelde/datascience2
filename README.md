@@ -50,10 +50,10 @@ Examples:
 | Week 13       | (back-up)                              | *Conclusion*                          |
 
 
-
+<!--
 
 ## Project
 
 Students choose one of the following projects:
-
+-->
 
