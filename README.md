@@ -5,10 +5,14 @@
 ### Data Science Process
 
 1. Preparing workspace
-2. Data Processing
+2. Data Processing ([slides](steps/step2/slides-ds2-step2-processing.html))
 3. Explorative Data Analysis
 4. Data Modelling
 5. Presentation
+
+Examples:
+* [titanic](steps/examples/titanic.ipynb)
+
 
 ### Advanced Analytic Methods
 
@@ -61,8 +65,4 @@
 
 Students choose one of the following projects:
 
-## Material
-
-[slides](steps/step2/slides-ds2-step2-processing.html)
-[a relative link](steps/examples/titanic.ipynb)
 
