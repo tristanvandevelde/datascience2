@@ -45,7 +45,7 @@ Examples:
 | Week 8        | Data Modelling                         |                                       |
 | Week 9        | Data Modelling                         | **Coaching Session 3: Modelling**     |
 | Week 10       | Data Visualization                     |                                       |
-| Week 11       | Data Visualization                     |                                       |
+| Week 11       | Data Visualization                     | *Conclusion*                          |
 | Week 12       | (back-up)                              | **Coaching Session 4: Illustration**  |
 
 
