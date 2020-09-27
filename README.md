@@ -16,7 +16,7 @@ Examples:
 
 ### Advanced Analytic Methods
 
-* Support Vector Machines
+* Support Vector Machines ([slides](methods/svm/slides-ds2-svm.html))
 * Neural Networks
 * Ensembles (coming AY 2021-2022)
 * Reinforcement Learning (coming AY 2021-2022)
