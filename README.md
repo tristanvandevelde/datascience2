@@ -44,10 +44,10 @@
 -->
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Date          | Project                                | In-Class       |
+| ------------- | -------------                          | -------------  |
+| Week 1        | Data Collection & Feature Engineering  | *Introduction* |
+| Week 2        | Data Cleaning & Preparation            |                |
 
 ## Project
 
