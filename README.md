@@ -60,3 +60,8 @@
 ## Project
 
 Students choose one of the following projects:
+
+## Material
+
+[a relative link](steps/step2/slides-ds2-step2-processing.html)
+
