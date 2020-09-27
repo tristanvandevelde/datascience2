@@ -25,6 +25,7 @@
 * Adverserial Reprogramming
 
 ## Schedule
+<!--
 | Date  |  Project |  In-Class |   |
 |---|---|---|---|
 | Week 1  | Data Collection & Feature Engineering  | Introduction  |   |
@@ -40,7 +41,7 @@
 | Week 10  | Data Visualization  |   |   |
 | Week 11  | Data Visualization  |   |   |
 | Week 12  | (back-up)  | **Coaching Session 4: Illustration**  |   |
-
+-->
 ## Project
 
 Students choose one of the following projects:
