@@ -42,6 +42,13 @@
 | Week 11  | Data Visualization  |   |   |
 | Week 12  | (back-up)  | **Coaching Session 4: Illustration**  |   |
 -->
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ## Project
 
 Students choose one of the following projects:
