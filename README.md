@@ -29,23 +29,7 @@ Examples:
 * Adverserial Reprogramming
 
 ## Schedule
-<!--
-| Date  |  Project |  In-Class |   |
-|---|---|---|---|
-| Week 1  | Data Collection & Feature Engineering  | Introduction  |   |
-| Week 2  | Data Cleaning & Preparation  |   |   |
-| Week 3  | EDA: Initial view  | **Coaching Session 1: Preprocessing**  |   |
-| Week 4  | EDA: Complete Exploration  |   |   |
-| Week 5  | Data Modelling  |   |   |
-| Week 6  | Data Modelling | **Coaching Session 2: EDA**  |   |
-|  | Data Modelling  |   |   |
-| Week 7  | Data Modelling  |   |   |
-| Week 8  | Data Modelling  |   |   |
-| Week 9  | Data Modelling  | **Coaching Session 3: Modelling**  |   |
-| Week 10  | Data Visualization  |   |   |
-| Week 11  | Data Visualization  |   |   |
-| Week 12  | (back-up)  | **Coaching Session 4: Illustration**  |   |
--->
+
 
 
 | Date          | Project                                | In-Class                              |
@@ -57,6 +41,12 @@ Examples:
 | Week 5        | Data Modelling                         |                                       |
 | Week 6        | Data Modelling                         | **Coaching Session 2: EDA**           |
 |               | Data Modelling                         |                                       |
+| Week 7        | Data Modelling                         |                                       |
+| Week 8        | Data Modelling                         |                                       |
+| Week 9        | Data Modelling                         | **Coaching Session 3: Modelling**     |
+| Week 10       | Data Visualization                     |                                       |
+| Week 11       | Data Visualization                     |                                       |
+| Week 12       | (back-up)                              | **Coaching Session 4: Illustration**  |
 
 
 
