@@ -1,6 +1,8 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master?filepath=steps%2Fexamples%2Ftitanic.ipynb)
+
+
 # Data Science 2
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master?filepath=steps%2Fexamples%2Ftitanic.ipynb)
 
 ## Content
 
