@@ -13,7 +13,9 @@
 5. Presentation
 
 Examples:
-* [titanic](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master?filepath=steps%2Fexamples%2Ftitanic.ipynb)
+<!--
+* [titanic](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master?filepath=steps%2Fexamples%2Ftitanic.ipynb) -->
+* [titanic](https://hub.gke2.mybinder.org/user/tristanvandevelde-datascience2-05j1xgo5/notebooks/steps/examples/titanic.ipynb)
 
 
 ### Advanced Analytic Methods
