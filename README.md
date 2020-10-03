@@ -11,8 +11,8 @@
 1. Preparing workspace ([slides](https://thomas-more.slides.com/tristanvandevelde/ds2-step1-workspace/fullscreen?token=hjRB2fAe))
 2. Data Processing ([slides](https://thomas-more.slides.com/tristanvandevelde/ds2-step2-processing/fullscreen?token=uAnUy11x))
 3. Explorative Data Analysis ([slides](https://thomas-more.slides.com/tristanvandevelde/ds2-step3-eda/fullscreen?token=7ol3Ee1A))
-4. Data Modelling
-5. Presentation
+4. Data Modelling ([slides](https://thomas-more.slides.com/tristanvandevelde/ds2-step4-modelling/fullscreen?token=Yi3wKhfR))
+5. Presentation ([slides](https://thomas-more.slides.com/tristanvandevelde/ds2-step5-reporting/fullscreen?token=4kFcqbil))
 
 
 Complete Examples:
