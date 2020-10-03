@@ -16,13 +16,6 @@
 4. Data Modelling ([slides](https://thomas-more.slides.com/tristanvandevelde/ds2-step4-modelling/fullscreen?token=Yi3wKhfR))
 5. Presentation ([slides](https://thomas-more.slides.com/tristanvandevelde/ds2-step5-reporting/fullscreen?token=4kFcqbil))
 
-
-### Advanced Processing Methods
-
-* Natural Language Processing
-* Image Processing
-
-
 ### Advanced Analytic Methods
 
 * Support Vector Machines (coming AY 2021-2022)
