@@ -9,7 +9,7 @@
 ### Data Science Process
 
 1. Preparing workspace
-2. Data Processing ([slides](steps/step2/slides-ds2-step2-processing.html)<!--,example-->)
+2. Data Processing ([slides](https://thomas-more.slides.com/tristanvandevelde/ds2-step2-processing/fullscreen))
 3. Explorative Data Analysis
 4. Data Modelling
 5. Presentation
