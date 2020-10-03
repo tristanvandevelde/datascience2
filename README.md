@@ -19,6 +19,11 @@ Complete Examples:
 
 * [titanic](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master?filepath=titanic.ipynb) 
 
+### Advanced Processing Methods
+
+* Natural Language Processing
+* Image Processing
+
 
 ### Advanced Analytic Methods
 
