@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master?filepath=steps%2Fexamples%2Ftitanic.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master?filepath=titanic.ipynb)
 
 
 # Data Science 2
@@ -16,7 +16,7 @@
 
 Complete Examples:
 
-* [titanic](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master?filepath=steps%2Fexamples%2Ftitanic.ipynb) 
+* [titanic](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master?filepath=titanic.ipynb) 
 
 
 ### Advanced Analytic Methods
