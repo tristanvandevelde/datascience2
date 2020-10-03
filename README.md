@@ -19,7 +19,7 @@
 ### Advanced Analytic Methods
 
 * Support Vector Machines ([slides](https://thomas-more.slides.com/tristanvandevelde/ds2-svm/fullscreen?token=xb8GoDEf))
-* Neural Networks (coming AY 2021-2022)
+* Neural Networks (coming AY 2021-2022, [prel. slides](https://thomas-more.slides.com/tristanvandevelde/ds2-nn/fullscreen?token=lZ7H4lSA))
 * Ensembles (coming AY 2021-2022)
 * Reinforcement Learning (coming AY 2021-2022)
 * Evolutionary Algorithms (coming AY 2022-2023)
