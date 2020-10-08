@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master?filepath=titanic.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tristanvandevelde/datascience2/master)
 
 
 # Data Science 2
