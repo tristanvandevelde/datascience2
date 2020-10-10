@@ -57,21 +57,21 @@
 
 
 
-| Date          | Content                                  | 
-| ------------- | -------------                            | 
-| Week 1        | Introduction                             | 
-| Week 2        | Preliminaries 1: Tensor Data             |
-| Week 3        | Preliminaries 2: Optimization Algorithms |
-| Week 4        | Neural Networks 1: Perceptrons           |
-| Week 5        | Neural Networks 2: Multilayer Perceptrons|
-| Week 6        | Neural Networks 3: Deep Neural Networks  |
-|               | **MID SEMESTER BREAK**                   | 
-| Week 7        | Image Processing 1: Basics               |
-| Week 8        | Image Processing 2:                      |
-| Week 9        | Image Processing 3:                      |
-| Week 10       | Text Processing 1:                       |
-| Week 11       | Text Processing 2:                       |
-| Week 12       | Text Processing 3:                       |
+| Date          | Content                                              | 
+| ------------- | -------------                                        | 
+| Week 1        | Introduction & Tensor Algebra                        | 
+| Week 2        | Optimization Algorithms & Learning from Data         |
+| Week 3        | Neural Networks 1: Perceptrons                       |
+| Week 4        | Neural Networks 2: Single-layer Perceptrons          |
+| Week 5        | Neural Networks 3: Multilayer Perceptrons            |
+| Week 6        | Neural Networks 4: Backpropagation                   |
+|               | **MID SEMESTER BREAK**                               | 
+| Week 7        | Neural Networks 6: Deep Learning Architecture        |
+| Week 8        | Neural Networks 7: Deployment                        |
+| Week 9        | Image Processing 1: Basic Computer Vision            |
+| Week 10       | Image Processing 2: Image Classification             |
+| Week 11       | Text Processing 1: Basic Natural Language Processing |
+| Week 12       | Text Processing 3: Sentiment Analysis                |
 
 
 <!--
