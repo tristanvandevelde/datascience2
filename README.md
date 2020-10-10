@@ -57,21 +57,21 @@
 
 
 
-| Date          | Content                                              | 
-| ------------- | -------------                                        | 
-| Week 1        | Introduction & Tensor Algebra                        | 
-| Week 2        | Optimization Algorithms & Learning from Data         |
-| Week 3        | Neural Networks 1: Perceptrons                       |
-| Week 4        | Neural Networks 2: Single-layer Perceptrons          |
-| Week 5        | Neural Networks 3: Multilayer Perceptrons            |
-| Week 6        | Neural Networks 4: Backpropagation                   |
-|               | **MID SEMESTER BREAK**                               | 
-| Week 7        | Neural Networks 6: Deep Learning Architecture        |
-| Week 8        | Neural Networks 7: Deployment                        |
-| Week 9        | Image Processing 1: Basic Computer Vision            |
-| Week 10       | Image Processing 2: Image Classification             |
-| Week 11       | Text Processing 1: Basic Natural Language Processing |
-| Week 12       | Text Processing 3: Sentiment Analysis                |
+| Date          | Content                                      | Section                  | 
+| ------------- | -------------                                | -------------            |
+| Week 1        | Introduction & Tensor Algebra                | Preliminaries            |
+| Week 2        | Optimization Algorithms & Learning from Data | Preliminaries            |
+| Week 3        | Perceptrons                                  | Basic Neural Networks    |
+| Week 4        | Single-layer Perceptrons                     | Basic Neural Networks    |
+| Week 5        | Multilayer Perceptrons                       | Basic Neural Networks    |
+| Week 6        | Backpropagation                              | Basic Neural Networks    |
+|               | **MID SEMESTER BREAK**                       |                          |
+| Week 7        | Deep Learning Architecture                   | Advanced Neural Networks |
+| Week 8        | Deployment                                   | Advanced Neural Networks |
+| Week 9        | Basic Computer Vision                        | Image Processing         |
+| Week 10       | Image Classification                         | Image Processing         |
+| Week 11       | Basic Natural Language Processing            | Text Processing          |
+| Week 12       | Sentiment Analysis                           | Text Processing          |
 
 
 <!--
