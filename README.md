@@ -12,10 +12,9 @@
 | ------------- | -------------                                | -------------            |
 | Week 1        | Introduction & Tensor Algebra                | Preliminaries            |
 | Week 2        | Optimization Algorithms & Learning from Data | Preliminaries            |
-| Week 3        | Perceptrons                                  | Basic Neural Networks    |
-| Week 4        | Single-layer Perceptrons                     | Basic Neural Networks    |
-| Week 5        | Multi-layer Perceptrons                       | Basic Neural Networks    |
-| Week 6        | Backpropagation                              | Basic Neural Networks    |
+| Week 2        | Optimization Algorithms & Learning from Data | Preliminaries            |
+| Week 3        | Perceptrons                                  | Neural Networks          |
+| Week 5        | Multi-layer Perceptrons                      | Neural Networks          |
 |               | **MID SEMESTER BREAK**                       |                          |
 | Week 7        | Deep Learning Architecture                   | Advanced Neural Networks |
 | Week 8        | Deployment                                   | Advanced Neural Networks |
