@@ -10,18 +10,14 @@
 
 | Date          | Content                                      | Section                  | 
 | ------------- | -------------                                | -------------            |
-| Week 1        | Introduction & Tensor Algebra                | Preliminaries            |
-| Week 2        | Optimization Algorithms & Learning from Data | Preliminaries            |
-| Week 2        | Optimization Algorithms & Learning from Data | Preliminaries            |
-| Week 3        | Perceptrons                                  | Neural Networks          |
-| Week 5        | Multi-layer Perceptrons                      | Neural Networks          |
+| Week 1        | Introduction                                 | Preliminaries            |
+| Week x        | Perceptrons                                  | Neural Networks          |
+| Week x        | Multi-layer Perceptrons                      | Neural Networks          |
 |               | **MID SEMESTER BREAK**                       |                          |
-| Week 7        | Deep Learning Architecture                   | Advanced Neural Networks |
-| Week 8        | Deployment                                   | Advanced Neural Networks |
-| Week 9        | Basic Computer Vision                        | Image Processing         |
-| Week 10       | Image Classification                         | Image Processing         |
-| Week 11       | Basic Natural Language Processing            | Text Processing          |
-| Week 12       | Sentiment Analysis                           | Text Processing          |
+| Week x        | Basic Computer Vision                        | Image Processing         |
+| Week x        | Image Classification                         | Image Processing         |
+| Week x        | Basic Natural Language Processing            | Text Processing          |
+| Week x        | Sentiment Analysis                           | Text Processing          |
 
 
 <!--
