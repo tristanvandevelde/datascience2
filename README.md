@@ -22,7 +22,7 @@
 | Week 9        | Coaching Session 2                               | Project                  |
 | Week 10       | Computational Issues                             | Current Issues           |
 | Week 11       | Coaching Session 3                               | Project                  |
-| Week 12       | Conclusion                                       | Current Issues           |
+| Week 12       | Conclusion                                       |                          |
 
 <!--
 
