@@ -20,7 +20,7 @@
 | Week 7        | Coaching Session 1                               | Project                  |                               |
 | Week 8        | Rubustness                                       | Current Issues           |                               |
 | Week 9        | Coaching Session 2                               | Project                  |                               |
-| Week 10       | Computational Issues                             | Current Issues           |                               |
+| Week 10       | High Dimensionality                              | Current Issues           |                               |
 | Week 11       | Coaching Session 3                               | Project                  |                               |
 | Week 12       | Conclusion                                       |                          | Assignment 3                  |
 
