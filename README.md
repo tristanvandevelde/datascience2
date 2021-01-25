@@ -8,11 +8,14 @@
 
 
 
-| Date          | Content                                      | Section                  | 
-| ------------- | -------------                                | -------------            |
-| Week 1        | Introduction                                 | Preliminaries            |
-| Week x        | Perceptrons                                  | Neural Networks          |
-| Week x        | Multi-layer Perceptrons                      | Neural Networks          |
+| Date          | Content                                          | Section                  | 
+| ------------- | -------------                                    | -------------            |
+| Week 1        | Introduction                                     | Preliminaries            |
+| Week 2        | Perceptrons                                      | Neural Networks          |
+| Week 3        | Multi-layer Perceptrons                          | Neural Networks          |
+| Week 4        | Computer Vision & Image Classification           | Applications             |
+| Week 5        | Natural Language Processing & Sentiment Analysis | Applications             |
+
 |               | **MID SEMESTER BREAK**                       |                          |
 | Week x        | Basic Computer Vision                        | Image Processing         |
 | Week x        | Image Classification                         | Image Processing         |
